@@ -10,6 +10,6 @@ function insert_Row() {
     let cell2 = newRow.insertCell(1);
 
     // Add text to the new cells
-    cell1.innerHTML = "New row cell1";
-    cell2.innerHTML = "New row cell2";
+    cell1.innerHTML = "New Cell1";
+    cell2.innerHTML = "New Cell2";
 }
